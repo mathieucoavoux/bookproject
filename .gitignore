@@ -1,0 +1,4 @@
+bookclient/.settings*
+bookclient/target/*
+bookprovider/.settings*
+bookprovider/target/*
